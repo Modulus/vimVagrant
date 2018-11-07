@@ -8,7 +8,6 @@ call vundle#begin()
 " Yaml markup
 Plugin 'pearofducks/ansible-vim'
 Plugin 'fatih/vim-go'
-Plugin 'bach-support.vim'
 Plugin 'avakhov/vim-yaml'
 Plugin 'ekalinin/dockerfile.vim'
 " " " alternatively, pass a path where Vundle should install plugins
